@@ -1,0 +1,2 @@
+WebClientResponseException.create(400,
+"BAD_REQUEST",NULL,NULL,NULL);
